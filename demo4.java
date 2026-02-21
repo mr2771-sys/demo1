@@ -1,4 +1,4 @@
-public class Demo3 {
+public class Demo4 {
 
     public static void main(String[] args) {
         String[] lines = new String[7];
